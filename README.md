@@ -22,9 +22,6 @@ I'm **Abdelrahman Hany**, a Computer Science student at Alexandria University, c
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AbdelrahmanGPT&limit=5&theme=default&combine_all_yearly_contributions=true)
 
----
-[![](https://komarev.com/ghpvc/?username=AbdelrahmanGPT&icon=0&color=0)](https://visitcount.itsvg.in)
-
 </p>
 
 <!-- CREATED BY AbdelrahmanGPT  -->
