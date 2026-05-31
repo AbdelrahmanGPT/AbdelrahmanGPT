@@ -18,7 +18,7 @@ I'm **Abdelrahman Hany**, a Computer Science student at Alexandria University, c
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="https://x.com/AbdelrahmanGPT">
-    <img src="https://img.icons8.com/?size=auto&id=A4DsujzAX4rw&format=png&color=000000" />
+    <img src="https://img.icons8.com/?size=50&id=A4DsujzAX4rw&format=png&color=000000" />
   </a>
   <a href="https://discord.gg/AbdelrahmanGPT">
     <img src="https://skillicons.dev/icons?i=discord" />
