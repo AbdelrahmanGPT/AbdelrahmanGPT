@@ -14,15 +14,15 @@ I'm **Abdelrahman Hany**, a Computer Science student at Alexandria University, c
 -->
 
 <p align="center">
-  <a href="https://linkedin.com/in/abdelrahman-hany5" target="_blank">
+  <a href="https://linkedin.com">
     <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
   </a>
 
-  <a href="https://x.com/AbdelrahmanGPT" target="_blank">
+  <a href="https://x.com">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" width="45"/>
   </a>
 
-  <a href="https://discord.gg/AbdelrahmanGPT" target="_blank">
+  <a href="https://discord.com">
     <img src="https://skillicons.dev/icons?i=discord" width="45"/>
   </a>
 </p>
