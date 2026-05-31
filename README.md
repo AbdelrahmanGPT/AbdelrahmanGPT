@@ -15,15 +15,13 @@ I'm **Abdelrahman Hany**, a Computer Science student at Alexandria University, c
 
 <p align="center">
   <a href="https://linkedin.com/in/abdelrahman-hany5">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-
   <a href="https://x.com/AbdelrahmanGPT">
-    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=x" />
   </a>
-
   <a href="https://discord.gg/AbdelrahmanGPT">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=discord" />
   </a>
 </p>
 
