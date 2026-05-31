@@ -25,6 +25,7 @@ I'm **Abdelrahman Hany**, a Computer Science student at Alexandria University, c
   <img src="https://img.shields.io/badge/GIMP-657D8B?style=flat-square&logo=gimp&logoColor=white" />
   <img src="https://img.shields.io/badge/Prezi-3181FF?style=flat-square&logo=prezi&logoColor=white" />
 </p>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=AbdelrahmanGPT&theme=default&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=AbdelrahmanGPT&theme=default&hide_border=true)<br/>
