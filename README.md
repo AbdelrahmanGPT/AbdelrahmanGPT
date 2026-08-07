@@ -77,7 +77,8 @@ Highlights:
 
 ## 🌍 Leadership & Volunteering
 
-### 🌍 IOI 2024 — Unit Leader & Team Guide
+### 🏅 IOI 2024 | International Olympiad in Informatics 2024
+**Unit Leader & Team Guide** • Alexandria, Egypt • **Aug 2024 – Sep 2024**
 
 Selected among the **Top 12** out of **2,000+ applicants** to serve as both a **Unit Leader** and **Team Guide** during the **International Olympiad in Informatics (IOI) 2024**.
 
