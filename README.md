@@ -7,7 +7,22 @@
 </p>
 
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4E22AQH80ReEOPJ7ew/feedshare-shrink_1280/B4EZXJTK.BHgAo-/0/1742839001480?e=2147483647&v=beta&t=m2sGLA5UpWf_OlGG5kC3tChew2cVPCv80mg8Y7Xbvgc" alt="IBM Logo" width="180">
+  <img src="https://media.licdn.com/dms/image/v2/D4E22AQH80ReEOPJ7ew/feedshare-shrink_1280/B4EZXJTK.BHgAo-/0/1742839001480?e=2147483647&v=beta&t=m2sGLA5UpWf_OlGG5kC3tChew2cVPCv80mg8Y7Xbvgc" alt="GIF 2" width="300">
+  <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" alt="GIF 1" width="255">
+  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" alt="GIF 3" width="190">
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="GIF 3" width="340">
+  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" alt="IBM Logo" width="560">
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="GIF 4" width="500">
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=AbdelrahmanGPT&label=📈%20PROFILE%20VIEWS&color=238636&style=for-the-badge" alt="profile views"/>
 </p>
 
 ---
@@ -130,10 +145,6 @@ Volunteered at an international event organized by **UN-Habitat** in collaborati
 
 <!-- # 💫 About Me:
 I'm **Abdelrahman Hany**, a Computer Science student at Alexandria University, competitive programmer, and software builder passionate about transforming ideas into reliable software and impactful solutions.<br><br>I enjoy designing systems, solving algorithmic challenges, and creating tools that improve productivity. My projects range from **FCDSlib**, a modular Java framework adopted by 100+ students, to C++ applications focused on security, automation, and object-oriented design.<br><br>Beyond development, I am passionate about leadership, teamwork, and international collaboration. I had the opportunity to serve as a **Unit Leader at IOI 2024 (International Olympiad in Informatics)**, where I was selected among the top 12 performers from 2,000+ applicants and helped support international teams during one of the world's most prestigious programming competitions. I also volunteered as an **Event Organizer for World Cities Day 2024**, contributing to the successful execution of a global event attended by international leaders and delegates.<br><br>🎓 **Computer Science Student** at Alexandria University <br>💻 **Competitive Programmer** focused on Algorithms & Data Structures<br>🌍 **IOI 2024 Unit Leader**, selected among the top 12 performers from 2,000+ applicants<br>⚡ **Software Developer** building projects with C++, Java, SQL, Git, and Linux<br>🏗️ Interested in **Software Engineering, Backend Development, and System Design**<br>📚 Currently exploring **Scalable Systems, Advanced Data Structures, and Software Architecture**<br>🚀 Always learning, always building, and always improving<br><br>🎯 My goal is to become a world-class software engineer and contribute to products that impact millions of users worldwide.<br> -->
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=AbdelrahmanGPT&label=📈%20PROFILE%20VIEWS&color=238636&style=for-the-badge" alt="profile views"/>
-</p>
 
 <!-- 
 <img src="https://komarev.com/ghpvc/?username=AbdelrahmanGPT&label=📈%20PROFILE%20VIEWS&color=E0234E&style=for-the-badge" alt="profile views"/> 
