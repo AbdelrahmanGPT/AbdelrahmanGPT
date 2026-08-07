@@ -95,8 +95,11 @@ Volunteered at an international event organized by **UN-Habitat** in collaborati
 
 - 🤝 Coordinated event logistics, VIP arrivals, and scheduling across multiple venues, including **Bibliotheca Alexandrina**, **Qaitbay Citadel**, and the **Alexandria Naval Base**.
 - 🌐 Collaborated with cross-functional teams to support **7+ senior government officials**, diplomats, and international dignitaries.
-- 👤 Assisted distinguished guests including **H.E. Dr. Mostafa Madbouly** (Prime Minister of Egypt), **Ms. Anacláudia Rossbach** (UN Under-Secretary-General & Executive Director of UN-Habitat), and **Mr. Ni Hong** (Minister of Housing and Urban-Rural Development of China).
+- 👤 Assisted distinguished guests including **H.E. Dr. Mostafa Madbouly** (Prime Minister of Egypt), **Ms. Anacláudia Rossbach** (UN Under-Secretary-General & Executive Director of UN-Habitat), **H.E. Dr. Rania Al-Mashat** (Minister of Planning, Economic Development and International Cooperation), **H.E. Dr. Manal Awad** (Minister of Local Development), **H.E. Dr. Ashraf Sobhy** (Minister of Youth and Sports), **H.E. Mr. Ni Hong** (Minister of Housing and Urban-Rural Development of China), **Ms. Elena Panova** (UN Resident Coordinator in Egypt), **Lt. Gen. Ahmed Khaled** (Governor of Alexandria), **Dr. Abdelaziz Konsowa** (President of Alexandria University), and **Dr. Ahmed Zayed** (Director of Bibliotheca Alexandrina).
 - 🎯 Contributed to the smooth coordination and successful delivery of a large-scale international event involving government representatives and global delegates.
+
+
+
 
 ---
 
