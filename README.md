@@ -19,7 +19,7 @@ I enjoy designing reliable software, solving complex engineering problems, and t
 ## 🎓 Education
 
 🎓 **Alexandria University**
-- Bachelor of Computer Science (CGPA: **3.7/4.0**)
+- Bachelor of Computer Science
 - Expected Graduation: **June 2028**
 
 Relevant Coursework:
