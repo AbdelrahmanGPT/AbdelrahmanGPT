@@ -6,6 +6,10 @@
   Software Engineer Intern @ IBM | 👁️🐝Ⓜ️
 </p>
 
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D4E22AQH80ReEOPJ7ew/feedshare-shrink_1280/B4EZXJTK.BHgAo-/0/1742839001480?e=2147483647&v=beta&t=m2sGLA5UpWf_OlGG5kC3tChew2cVPCv80mg8Y7Xbvgc" alt="IBM Logo" width="400">
+</p>
+
 ---
 
 # 💫 About Me
