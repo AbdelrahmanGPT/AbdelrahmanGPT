@@ -83,7 +83,7 @@ Highlights:
 Selected among the **Top 12** out of **2,000+ applicants** to serve as both a **Unit Leader** and **Team Guide** during the **International Olympiad in Informatics (IOI) 2024**.
 
 - 🇨🇳 **Team Guide** for the **Republic of China** delegation, supporting the team throughout the competition and contributing to their achievement of **3+ Gold Medals**.
-- 🌏 **Unit Leader** for the **Malaysia**, **Philippines**, **Indonesia**, **Macao**, and **Hong Kong** delegations.
+- 🌏 **Unit Leader** for the **Malaysia**, **Philippines**, **Indonesia**, **Macao (China)**, and **Hong Kong (China)** delegations.
 - 👥 Managed and coordinated activities for **50+ international delegates**, ensuring smooth logistics, communication, and daily operations.
 - 🤝 Collaborated with organizers and volunteers to support one of the world's most prestigious programming competitions.
 - 🎉 Assisted in organizing the **Opening Ceremony** at **Bibliotheca Alexandrina** and the **Closing Ceremony** at the **Pyramids of Giza**, attended by **1,000+ participants** from **97 countries**.
@@ -95,7 +95,7 @@ Volunteered at an international event organized by **UN-Habitat** in collaborati
 
 - 🤝 Coordinated event logistics, VIP arrivals, and scheduling across multiple venues, including **Bibliotheca Alexandrina**, **Qaitbay Citadel**, and the **Alexandria Naval Base**.
 - 🌐 Collaborated with cross-functional teams to support **7+ senior government officials**, diplomats, and international dignitaries.
-- 👤 Assisted distinguished guests including **H.E. Dr. Mostafa Madbouly** (Prime Minister of Egypt), **Ms. Anacláudia Rossbach** (UN Under-Secretary-General & Executive Director of UN-Habitat), **H.E. Dr. Rania Al-Mashat** (Minister of Planning, Economic Development and International Cooperation), **H.E. Dr. Manal Awad** (Minister of Local Development), **H.E. Dr. Ashraf Sobhy** (Minister of Youth and Sports), **H.E. Mr. Ni Hong** (Minister of Housing and Urban-Rural Development of China), **Ms. Elena Panova** (UN Resident Coordinator in Egypt), **Lt. Gen. Ahmed Khaled** (Governor of Alexandria), **Dr. Abdelaziz Konsowa** (President of Alexandria University), and **Dr. Ahmed Zayed** (Director of Bibliotheca Alexandrina).
+- 👤 Assisted distinguished guests including **H.E. Dr. Mostafa Madbouly** (Prime Minister of Egypt), **Ms. Anacláudia Rossbach** (UN Under-Secretary-General & Executive Director of UN-Habitat), **Ms. Elena Panova** (UN Resident Coordinator in Egypt), **H.E. Mr. Ni Hong** (Minister of Housing and Urban-Rural Development of China), **H.E. Dr. Rania Al-Mashat** (Minister of Planning, Economic Development and International Cooperation), **H.E. Dr. Manal Awad** (Minister of Local Development), **H.E. Dr. Ashraf Sobhy** (Minister of Youth and Sports), **Lt. Gen. Ahmed Khaled** (Governor of Alexandria), **Dr. Abdelaziz Konsowa** (President of Alexandria University), and **Dr. Ahmed Zayed** (Director of Bibliotheca Alexandrina).
 - 🎯 Contributed to the smooth coordination and successful delivery of a large-scale international event involving government representatives and global delegates.
 
 
