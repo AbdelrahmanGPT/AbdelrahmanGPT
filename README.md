@@ -7,25 +7,18 @@
 </p>
 
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4E22AQH80ReEOPJ7ew/feedshare-shrink_1280/B4EZXJTK.BHgAo-/0/1742839001480?e=2147483647&v=beta&t=m2sGLA5UpWf_OlGG5kC3tChew2cVPCv80mg8Y7Xbvgc" alt="GIF 2" width="300">
-  <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" alt="GIF 1" width="255">
+  <img src="https://media.licdn.com/dms/image/v2/D4E22AQH80ReEOPJ7ew/feedshare-shrink_1280/B4EZXJTK.BHgAo-/0/1742839001480?e=2147483647&v=beta&t=m2sGLA5UpWf_OlGG5kC3tChew2cVPCv80mg8Y7Xbvgc" alt="GIF 1" width="300">
+  <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" alt="GIF 2" width="255">
   <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" alt="GIF 3" width="190">
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="GIF 2" width="340">
-  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" alt="GIF 1" width="560">
-</p>
-
-
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="GIF 3" width="340">
-  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" alt="IBM Logo" width="560">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="GIF 4" width="340">
+  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" alt="GIF 5" width="560">
 </p>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="GIF 4" width="500">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="GIF 6" width="500">
 </p>
 
 <p align="center">
