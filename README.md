@@ -38,7 +38,7 @@ I enjoy designing reliable software, solving complex engineering problems, and t
 ## 🎓 Education
 
 🎓 **Alexandria University**
-- Bachelor of Computer Science
+- Bachelor's Degree in Computer Science
 - Expected Graduation: **June 2028**
 
 Relevant Coursework:
