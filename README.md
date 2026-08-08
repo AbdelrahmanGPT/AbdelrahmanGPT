@@ -54,7 +54,7 @@ Relevant Coursework:
 
 ## 💼 Experience
 
-### Software Engineer Intern @ IBM 👁️🐝Ⓜ️
+### Software Engineer Intern @ IBM | 👁️🐝Ⓜ️
 
 Working on enterprise software and distributed systems by building:
 
