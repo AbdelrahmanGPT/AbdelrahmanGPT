@@ -75,22 +75,31 @@ Working on enterprise software and distributed systems by building:
 ## 🚀 Projects
 
 ### 📚 FCDSlib
-A modular Java framework adopted by **100+ students**.
+
+A modular Java development framework designed to provide reusable components for common programming, data structure, GUI, file handling, and utility tasks. Adopted by **100+ students** for academic projects.
 
 Highlights:
-- 15+ reusable modules
-- Reduced development time by **30%**
-- Built using Java & OOP principles
+
+- 🧩 **15+ reusable Java modules** covering Arrays, Matrices, Vectors, ArrayLists, Strings, File Handling, Date/Time, and more
+- ⚡ **30% reduction in development time** through reusable software components
+- 👨‍💻 Built with **Java, OOP, modular design, and reusable architecture**
+- 🖥️ Includes **Swing & JavaFX** components for GUI development
+- 🔐 Includes **Encryption/Decryption** and File Handling utilities
+- 👥 **100+ students** adopted the framework for academic projects
 
 ### 🔐 CIPHER-F
 
-Secure C++ file encryption system.
+Secure C++ file encryption and decryption system designed with a modular architecture and custom encryption algorithm.
 
 Highlights:
-- Custom encryption algorithm
-- Metadata management
-- 50+ users
-- 40% faster file operations
+
+- 🔒 **Custom-designed encryption algorithm** for secure file encryption and decryption
+- 🔄 Supports **file encryption, manual decryption, and automatic decryption**
+- 🗂️ Implements **metadata management** for encrypted files and operations
+- 💻 Designed a **modular CLI** for efficient and user-friendly file operations
+- ⚡ Reduced **file operation time by 40%** through modular CLI design
+- 👥 Adopted by **50+ users**
+- 🧩 Built with **C++**, applying modular design and Object-Oriented Programming principles
 
 ---
 
