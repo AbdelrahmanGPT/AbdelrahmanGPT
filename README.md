@@ -194,7 +194,7 @@ I'm **Abdelrahman Hany**, a Computer Science student at Alexandria University, c
 ### ⚙️ Backend Development
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,prisma,firebase,postman,npm" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,firebase,postman,npm" />
 </p>
 
 ### 🗄️ Databases
