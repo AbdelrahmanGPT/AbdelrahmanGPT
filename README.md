@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  Software Engineer Intern @ IBM | 👁️🐝Ⓜ️
+  Ex-Software Engineer Intern @ IBM | 👁️🐝Ⓜ️
 </p>
 
 <p align="center">
