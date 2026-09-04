@@ -29,7 +29,7 @@
 
 # 💫 About Me
 
-I'm **Abdelrahman Hany**, a **Software Engineer Intern @ IBM** and **Computer Science student** at Alexandria University passionate about building scalable backend systems, distributed architectures, and enterprise software.
+I'm **Abdelrahman Hany**, **Ex-Software Engineer Intern @ IBM** and **Computer Science student** at Alexandria University passionate about building scalable backend systems, distributed architectures, and enterprise software.
 
 I enjoy designing reliable software, solving complex engineering problems, and transforming ideas into production-ready systems. Alongside software engineering, I'm passionate about competitive programming, system design, and building technology that impacts millions of users.
 
@@ -56,19 +56,21 @@ Relevant Coursework:
 
 ### Software Engineer Intern @ IBM | 👁️🐝Ⓜ️
 
-Working on enterprise software and distributed systems by building:
+Working on enterprise software and distributed systems by designing and building:
 
-- API Gateways
-- Middleware
-- Cloud-Native Microservices
-- RESTful APIs
+- 🚀 Cloud-Native Microservices
+- 🌐 RESTful APIs & API Gateways
+- 🔗 Middleware & Service Integrations
+- 🔐 Authentication & Secure API Communication
 
 **Highlights**
-- 🚀 Integrated **12+ microservices**
-- ⚡ Developed **15+ microservices, API Gateways & middleware services**
-- 📉 Reduced API integration latency by **30%**
-- 🔒 Implemented authentication, authorization & secure API communication
-- 🤝 Collaborate with AI, Backend & Frontend engineers using **Agile/Scrum, Git & CI/CD**
+
+- 🚀 Integrated **12+ microservices** across AI, Backend & Frontend systems using **Node.js & Express.js**
+- ⚡ Developed **50+ cloud-native microservices, RESTful APIs, API Gateways & middleware services**
+- 📉 Reduced API integration latency by **30%** through optimized service orchestration
+- 🔒 Implemented **enterprise-grade authentication, authorization & secure API communication**
+- 🤝 Collaborated with AI, Backend & Frontend teams using **Git, CI/CD & Jira** in an **Agile/Scrum** workflow
+- 🧪 Automated **unit & API integration tests** for **50+ gateway routing services** using **Vitest & Supertest**
 
 ---
 
@@ -194,7 +196,7 @@ I'm **Abdelrahman Hany**, a Computer Science student at Alexandria University, c
 ### ⚙️ Backend Development
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,firebase,postman,npm" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,vitest,postman,prisma,firebase,npm" />
 </p>
 
 ### 🗄️ Databases
